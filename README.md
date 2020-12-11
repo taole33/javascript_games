@@ -1,3 +1,3 @@
 # javascript_games
 
-##javascriptを使ったゲーム
+## javascriptを使ったゲーム
